@@ -8,7 +8,7 @@
 
 ### Week 1:
 
-> In the first week of the course, it starts by introducing different types of machine learning like linear regression and linear classification that people use in different situations. In addition, this week teaches the very basic linear regression algorithm(cost function, learning rate and gradient descent).
+> In the first week of the course, it starts by introducing different types of machine learning(supervise VS unsupervise) that people use in different situation. In addition, this week teaches the very basic linear regression algorithm(cost function, learning rate and gradient descent).
 
 ### Week 2:
 
