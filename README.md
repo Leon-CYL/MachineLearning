@@ -12,3 +12,7 @@
 
 ### Week 2: Regression with multiple input variables
 
+> In the second week of the course, it dives deeper into Linear Regression with multiple input variables by introducing using numpy array to efficiently do the dot product between them and Gradient Descent with multiple input variables. Moreover, it introduces Polynomial Regression Learning and feature engineering to fit curves with non-linear functions to the data.
+
+> Assignment: [here](Assignment/W2_Assign1.ipynb)
+
