@@ -16,7 +16,7 @@
 
 > Assignment: [here](Assignment/W2_Assign1.ipynb)
 
-### Week 3
+### Week 3: Classification(Logistic Regression)
 
 
 
