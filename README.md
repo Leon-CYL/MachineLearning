@@ -18,7 +18,7 @@
 
 ### Week 3: Classification(Logistic Regression)
 
-> 
+> In the third week of the course, it introduces a different type of machine learning called Classification along with different parts(Sigmoid function, logistic regression cost function, Decision boundary and logistic gradient descent) of the algorithm that correctly classify the outputs with given inputs. 
 
 > Assignment: [here](Assignment/W3_Logistic_Regression.ipynb)
 
