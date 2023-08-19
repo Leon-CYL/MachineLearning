@@ -18,5 +18,10 @@
 
 ### Week 3: Classification(Logistic Regression)
 
+> 
+
+> Assignment: [here](Assignment/W3_Logistic_Regression.ipynb)
+
+![part1](part1.png)
 
 
