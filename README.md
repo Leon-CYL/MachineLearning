@@ -14,13 +14,13 @@
 
 > In the second week of the course, it dives deeper into Linear Regression with multiple input variables by introducing using numpy array to efficiently do the dot product between them and Gradient Descent with multiple input variables. Moreover, it introduces Polynomial Regression Learning and feature engineering to fit curves with non-linear functions to the data.
 
-> Assignment: [here](Assignment/W2_Assign1.ipynb)
+Assignment: [here](Assignment/W2_Assign1.ipynb)
 
 ### Week 3: Classification(Logistic Regression)
 
 > In the third week of the course, it introduces a different type of machine learning called Classification along with different parts(Sigmoid function, logistic regression cost function, Decision boundary and logistic gradient descent) of the algorithm that correctly classify the outputs with given inputs. 
 
-> Assignment: [here](Assignment/W3_Logistic_Regression.ipynb)
+Assignment: [here](Assignment/W3_Logistic_Regression.ipynb)
 
 ![part1](part1.png)
 
@@ -28,7 +28,7 @@
 
 > In the fourth week of the course, it introduces a new type of machine learning called deep learning(neutral network) and how to implement the neutral network in multiple ways. First, it teaches the implementation of the neutral network using the framework Tensorflow in a few lines of code then it dives deeper into the implementation of the neutral network using my own code in Python and Numpy. 
 
-> Assignment: [here](Assignment/W4_Assignment.ipynb)
+Assignment: [here](Assignment/W4_Assignment.ipynb)
 
 
 
