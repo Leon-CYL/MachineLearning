@@ -24,4 +24,11 @@
 
 ![part1](part1.png)
 
+### Week 4: Neutral Network
+
+> In the fourth week of the course, it introduces a new type of machine learning called deep learning(neutral network) and how to implement the neutral network in multiple ways. First, it teaches the implementation of the neutral network using the framework Tensorflow in a few lines of code then it dives deeper into the implementation of the neutral network using my own code in Python and Numpy. 
+
+> Assignment: [here](Assignment/W4_Assignment.ipynb)
+
+
 
