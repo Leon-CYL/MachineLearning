@@ -30,5 +30,13 @@ Assignment: [here](Assignment/W3_Logistic_Regression.ipynb)
 
 Assignment: [here](Assignment/W4_Assignment.ipynb)
 
+### Week 5: Neutral Network Training
+
+> In the fifth week of the course, it identifies the difference between each activation function(ReLu, Sigmoid and Linear) and explains the purpose of each of them. Moreover, it teaches the implementation of a multiclass classification using the framework TensorFlow with a different cost function and activation function(softmax) to classify digit(0-9).
+
+Assignment: [here](Assignment/W5_Assignment.ipynb)
+
+
+
 
 
