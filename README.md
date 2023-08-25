@@ -36,6 +36,11 @@ Assignment: [here](Assignment/W4_Assignment.ipynb)
 
 Assignment: [here](Assignment/W5_Assignment.ipynb)
 
+### Week 6: Advice for applying Machine Learning
+
+> In the sixth week of the course, it teaches the best practices for training and evaluating your learning algorithms to improve performance as well as a wide range of useful advice about the machine learning lifecycle, tuning your model, and also improving your training data.
+
+Assignment: [here](Assignment/W6_Assignment.ipynb)
 
 
 
