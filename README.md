@@ -42,6 +42,13 @@ Assignment: [here](Assignment/W5_Assignment.ipynb)
 
 Assignment: [here](Assignment/W6_Assignment.ipynb)
 
+### Week 7: Decision Trees
+
+> In the seventh week of the course, it introduces to a new type of machine learning algorithm called Decision Trees and the purpose of applying decision trees to help us efficiently learn from the training data.
+
+Assignment: [here](Assignment/W7_Decision_Tree.ipynb)
+
+![part2](part2.png)
 
 
 
