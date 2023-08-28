@@ -51,4 +51,12 @@ Assignment: [here](Assignment/W7_Decision_Tree.ipynb)
 ![part2](part2.png)
 
 
+### Week 8: Unsupervised Learning
+
+> In the eighth week of the course, it introduces two key unsupervised learning algorithms: clustering and anomaly detection.
+
+Assignment: [here](Assignment/W8_KMeans_Assignment.ipynb), [here](Assignment/W8_Anomaly_Detection.ipynb)
+
+
+
 
