@@ -57,6 +57,11 @@ Assignment: [here](Assignment/W7_Decision_Tree.ipynb)
 
 Assignment: [here](Assignment/W8_KMeans_Assignment.ipynb), [here](Assignment/W8_Anomaly_Detection.ipynb)
 
+### Week 9: Recommender System
+
+> In the ninth week of the course, it teaches how to Implement collaborative filtering recommender systems and deep learning content based filtering using a neural network in TensorFlow.
+
+Assignment: [here](Assignment/W9_Collaborative_RecSys_Assignment.ipynb), [here](Assignment/W9_RecSysNN_Assignment.ipynb)
 
 
 
