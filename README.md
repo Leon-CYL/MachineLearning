@@ -4,6 +4,8 @@
 
 > This course provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
 
+![specialization](specialization.png)
+
 ## Course Overview:
 
 ### Week 1: Introduction to Machine Learning
@@ -63,5 +65,12 @@ Assignment: [here](Assignment/W8_KMeans_Assignment.ipynb), [here](Assignment/W8_
 
 Assignment: [here](Assignment/W9_Collaborative_RecSys_Assignment.ipynb), [here](Assignment/W9_RecSysNN_Assignment.ipynb)
 
+### Week 10: Reinforcement Learning
+
+> In the tenth week of the course, it introduces about reinforcement learning, and build a deep Q-learning neural network in order to land a virtual lunar lander on Mars.
+
+Assignment: [here](Assignment/W10_Assignment.ipynb)
+
+![part3](part3.png)
 
 
